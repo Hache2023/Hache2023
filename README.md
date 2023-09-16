@@ -1,4 +1,4 @@
-### hi im hache a game dev. i do stuff on roblox but i make stuff on here sometimes which is cool.
+### hi im hache a game dev. i do stuff on fruit ninja classic and fruit ninja coding for anything but its makes very insane of making my games
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hache2023&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
